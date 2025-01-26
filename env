@@ -1,0 +1,6 @@
+PORT = 8080
+NODE_MODE = development
+DB_USER = shyamranpara1099
+DB_PASS = IMUxLqqCdnBScwJy
+MONGO_URI = mongodb+srv://shyamranpara1099:IMUxLqqCdnBScwJy@cluster1.dozyt.mongodb.net/DcoAppoinmentApp
+JWT_SECRET = XYZYX12345
